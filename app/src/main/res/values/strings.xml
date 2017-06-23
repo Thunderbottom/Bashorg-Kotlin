@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bash</string>
+    <string name="send_to">Share via</string>
+
+    <string name="info_text">Bash.org</string>
+    <string name="madeby">Made by:\nChinmay Pai</string>
+
+</resources>
